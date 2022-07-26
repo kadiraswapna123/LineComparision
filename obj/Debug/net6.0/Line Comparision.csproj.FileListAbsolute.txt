@@ -1,0 +1,5 @@
+C:\REF\Day3-EmpWage\uc-1-geometry\uc-1-geometry\obj\Debug\net6.0\Line Comparision.csproj.AssemblyReference.cache
+C:\REF\Day3-EmpWage\uc-1-geometry\uc-1-geometry\obj\Debug\net6.0\Line Comparision.GeneratedMSBuildEditorConfig.editorconfig
+C:\REF\Day3-EmpWage\uc-1-geometry\uc-1-geometry\obj\Debug\net6.0\Line Comparision.AssemblyInfoInputs.cache
+C:\REF\Day3-EmpWage\uc-1-geometry\uc-1-geometry\obj\Debug\net6.0\Line Comparision.AssemblyInfo.cs
+C:\REF\Day3-EmpWage\uc-1-geometry\uc-1-geometry\obj\Debug\net6.0\Line Comparision.csproj.CoreCompileInputs.cache
